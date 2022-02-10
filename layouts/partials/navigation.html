@@ -22,7 +22,7 @@
           {{ $pageURL:= $currentPage.Permalink | absLangURL }}
           {{ $active := eq $menuURL $pageURL }}
           {{ if .HasChildren }}
-          <li class="nav-item dropdown">
+          <!-- <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true"
               aria-expanded="false">
               {{ .Name }}
@@ -35,12 +35,12 @@
                 href="{{if findRE `^#` .URL}}{{if not $.IsHome}}{{site.BaseURL | relLangURL}}{{end}}{{.URL}}{{else}}{{.URL | relLangURL}}{{end}}">{{ .Name }}</a>
               {{ end }}
             </div>
-          </li>
+          </li> -->
           {{ else }}
-          <li class="nav-item">
+          <!-- <li class="nav-item">
             <a class="nav-link" {{if findRE `^http` .URL}}target="_blank" rel="noopener" {{end}}
               href="{{if findRE `^#` .URL}}{{if not $.IsHome}}{{site.BaseURL | relLangURL}}{{end}}{{.URL}}{{else}}{{.URL | relLangURL}}{{end}}">{{.Name}}</a>
-          </li>
+          </li> -->
           {{ end }}
           {{ end }}
         </ul>
