@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "https://demo.gethugothemes.com/meghna/examplesite/"
-title = "Meghna"
+title = "Ozone"
 theme = "meghna-hugo"
 # post pagination
 paginate = "6"
@@ -145,7 +145,7 @@ weight = 8
 [params]
 logo = "images/logo.png"
 # Meta data
-description = "Responsive Multipurpose Parallax Hugo Template"
+description = "Happiness is Health"
 author = "Themefisher"
 # Google Analytics
 google_analytics_id = "" # Your ID
@@ -203,7 +203,7 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 home = "Home"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+copyright = "Copyright &copy; 2022 Ozone Health"
 
 ################################ France Language ########################
 [Languages.fr]
@@ -212,4 +212,4 @@ languageCode = "fr-fr"
 contentDir = "content/french"
 weight = 2
 home = "Accueil"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+copyright = "Copyright &copy; 2022 Ozone Health"
