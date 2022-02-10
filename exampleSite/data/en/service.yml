@@ -6,27 +6,27 @@ service:
     # service item loop
     - name : Global community
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Closer together we can make a difference.
+      content : When fill content and fulfilled we can make the world a better place.
       
     # service item loop
     - name : Comparmentalize
       icon : ti-layout # themify icon pack : https://themify.me/themify-icons
-      content : With pleasant routines.
+      content : When fill content and fulfilled we can make the world a better place.
       
     # service item loop
     - name : Goal oriented
       icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
-      content : We don't promise the world just a better tomorrow.
+      content : When fill content and fulfilled we can make the world a better place.
       
     # service item loop
     - name : Cultivate new interests
       icon : ti-palette # themify icon pack : https://themify.me/themify-icons
-      content : The world has a lot to offer, let's create a better tomomorow together.
+      content : When fill content and fulfilled we can make the world a better place.
       
     # service item loop
     - name : Apps Development
       icon : ti-package # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : When fill content and fulfilled we can make the world a better place.
       
     # service item loop
     - name : Healthy Mind
