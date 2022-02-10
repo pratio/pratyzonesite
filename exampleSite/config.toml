@@ -120,7 +120,7 @@ weight = 8
 
 ############################# Default Parameters ##########################
 [params]
-logo = "images/logo.svg"
+logo = "images/logo.png"
 # Meta data
 description = "Happiness is Health"
 author = "Themefisher"
@@ -132,7 +132,7 @@ post_share = true
 # preloader
 [params.preloader]
 enable = false
-preloader = "images/logo.svg"
+preloader = "images/logo.png"
 
 # cookies
 [params.cookies]
